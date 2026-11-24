@@ -6,7 +6,7 @@ Jogo educativo feito com Pygame. Esta versao pode ser executada no navegador usa
 
 ```powershell
 python -m pip install -r requirements.txt
-python -m pygbag .
+python -m pygbag --ume_block 0 .
 ```
 
 Abra o endereco local exibido pelo Pygbag no navegador.
